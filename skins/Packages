@@ -1,0 +1,80 @@
+Package: enigma2-plugin-skin-750s
+Version: 1.0-r0
+Depends: openvti-skincompat
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d61c078bf1ccad8bd90763347fc42161
+Size: 528170
+Filename: enigma2-plugin-skin-750s_1.0-r0_mips32el.ipk
+Source: enigma2-plugin-skin-750s.bb
+Description: VTi 750S Skin for OpenVTi
+OE: enigma2-plugin-skin-750s
+License: CLOSED
+Priority: optional
+
+
+Package: enigma2-plugin-skin-atile
+Version: 1.0-r0
+Depends: openvti-skincompat
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 49cd4a2e579f95c9d6c174d5b012a02f
+Size: 3003902
+Filename: enigma2-plugin-skin-atile_1.0-r0_mips32el.ipk
+Source: enigma2-plugin-skin-atile.bb
+Description: VTi AtileHD Skin for OpenVTi
+OE: enigma2-plugin-skin-atile
+License: CLOSED
+Priority: optional
+
+
+Package: enigma2-plugin-skin-iflatfhd
+Version: 1.0-r0
+Depends: openvti-skincompat
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9c1d3aadb0d7abb6b4b1222d5e36af58
+Size: 4171120
+Filename: enigma2-plugin-skin-iflatfhd_1.0-r0_all.ipk
+Source: enigma2-plugin-skin-iflatfhd.bb
+Description: iFlatFHD for OpenVTi Community Edition
+OE: enigma2-plugin-skin-iflatfhd
+License: CLOSED
+Priority: optional
+
+
+Package: enigma2-plugin-skin-mutespectator
+Version: 1.0-r0
+Depends: openvti-skincompat
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: eae7270068bcd5902b9130048cb0a28b
+Size: 293392
+Filename: enigma2-plugin-skin-mutespectator_1.0-r0_mips32el.ipk
+Source: enigma2-plugin-skin-mutespectator.bb
+Description: VTi MuteSpectator Skin for OpenVTi
+OE: enigma2-plugin-skin-mutespectator
+License: CLOSED
+Priority: optional
+
+
+Package: enigma2-plugin-skin-vuhd1080p
+Version: 1.0-r0
+Depends: openvti-skincompat
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: baa39564a72370cbfcd085bbb9cc414d
+Size: 1480174
+Filename: enigma2-plugin-skin-vuhd1080p_1.0-r0_mips32el.ipk
+Source: enigma2-plugin-skin-vuhd1080p.bb
+Description: VTi Vu_HD_1080P Skin for OpenVTi
+OE: enigma2-plugin-skin-vuhd1080p
+License: CLOSED
+Priority: optional
+
+
