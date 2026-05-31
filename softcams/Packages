@@ -1,0 +1,32 @@
+Package: enigma2-plugin-extensions-oscamstatus
+Version: 1.0+git55+0004ed50+0004ed50f7-r0
+Depends: python3-core
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: eb5dc671bcd1cff1fda95e939948b0cb
+Size: 95604
+Filename: enigma2-plugin-extensions-oscamstatus_1.0+git55+0004ed50+0004ed50f7-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-oscamstatus.bb
+Description: enigma2-plugin-extensions-oscamstatus version 1.0+git-r0
+OE: enigma2-plugin-extensions-oscamstatus
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-softcams-ncam
+Version: git10895+78270c90+78270c9682-r0
+Depends: enigma2-plugin-extensions-oscamstatus, enigma2-plugin-softcams-oscam-whitelist, libc6 (>= 2.43+git0+ce1013a197), libcrypto4 (>= 4.0.0), libdvbcsa1 (>= 1.1.0+git64+b84e7900+b84e790a94), libpcsclite1 (>= 2.0.3), libssl4 (>= 4.0.0), libusb1, pcsc-lite, pcsc-tools, softcam-support
+Section: base
+Architecture: mips32el
+Maintainer: RAED Developer
+MD5Sum: 595a1ec67fa5b7e877a4aa9419bfe463
+Size: 881972
+Filename: enigma2-plugin-softcams-ncam_git10895+78270c90+78270c9682-r0_mips32el.ipk
+Source: enigma2-plugin-softcams-ncam.bb
+Description: enigma2-plugin-softcams-ncam version git-r0
+OE: enigma2-plugin-softcams-ncam
+License: GPL-3.0-only
+Priority: optional
+
+
