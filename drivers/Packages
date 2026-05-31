@@ -1,0 +1,137 @@
+Package: kernel-module-mt7601usta-3.2-dm800se
+Version: 3.0.0.4-r0
+Depends: kernel-3.2-dm800se
+Provides: kernel-module-mt7601usta
+Section: kernel/modules
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f46664e824120928b9ebf3bcc45792e7
+Size: 496980
+Filename: kernel-module-mt7601usta-3.2-dm800se_3.0.0.4-r0_dm800se.ipk
+Source: mt7601u_3.0.0.4.bb
+Description: mt7601usta kernel module
+OE: mt7601u
+HomePage: www.mediatek.com
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: kernel-module-rtl8150-3.2-dm800se
+Version: 3.2-.7
+Depends: kernel-3.2-dm800se
+Provides: kernel-module-rtl8150
+Section: kernel
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 116ec09f0bc61cb2049dfe9b13050a7b
+Size: 9442
+Filename: kernel-module-rtl8150-3.2-dm800se_3.2-.7_dm800se.ipk
+Source: linux-dreambox_3.2.bb
+Description: rtl8150 kernel module
+OE: linux-dreambox
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: kernel-module-rtl8187-3.2-dm800se
+Version: 3.2-.7
+Depends: kernel-3.2-dm800se, kernel-module-cfg80211-3.2-dm800se, kernel-module-eeprom-93cx6-3.2-dm800se, kernel-module-mac80211-3.2-dm800se
+Provides: kernel-module-rtl8187
+Section: kernel
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7c49d0841c5f2e3b5f2b448ae996363e
+Size: 28112
+Filename: kernel-module-rtl8187-3.2-dm800se_3.2-.7_dm800se.ipk
+Source: linux-dreambox_3.2.bb
+Description: rtl8187 kernel module
+OE: linux-dreambox
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: kernel-module-rtl8192c-common-3.2-dm800se
+Version: 3.2-.7
+Depends: kernel-3.2-dm800se, kernel-module-mac80211-3.2-dm800se
+Provides: kernel-module-rtl8192c-common
+Section: kernel
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6449ffeb3582cb08c5708d31c34a1ffe
+Size: 34082
+Filename: kernel-module-rtl8192c-common-3.2-dm800se_3.2-.7_dm800se.ipk
+Source: linux-dreambox_3.2.bb
+Description: rtl8192c-common kernel module
+OE: linux-dreambox
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: kernel-module-rtl8192cu-3.2-dm800se
+Version: 3.2-.7
+Depends: kernel-3.2-dm800se, kernel-module-mac80211-3.2-dm800se, kernel-module-rtl8192c-common-3.2-dm800se, kernel-module-rtlwifi-3.2-dm800se
+Provides: kernel-module-rtl8192cu
+Section: kernel
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3947fd85bcf909a225761d3af47ff0e8
+Size: 51698
+Filename: kernel-module-rtl8192cu-3.2-dm800se_3.2-.7_dm800se.ipk
+Source: linux-dreambox_3.2.bb
+Description: rtl8192cu kernel module
+OE: linux-dreambox
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: kernel-module-rtlwifi-3.2-dm800se
+Version: 3.2-.7
+Depends: kernel-3.2-dm800se, kernel-module-cfg80211-3.2-dm800se, kernel-module-mac80211-3.2-dm800se
+Provides: kernel-module-rtlwifi
+Section: kernel
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ffb131c4679c241bc793cd70d2604152
+Size: 62472
+Filename: kernel-module-rtlwifi-3.2-dm800se_3.2-.7_dm800se.ipk
+Source: linux-dreambox_3.2.bb
+Description: rtlwifi kernel module
+OE: linux-dreambox
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: mt7601u
+Version: 3.0.0.4-r0
+Depends: kernel-module-mt7601usta-3.2-dm800se
+Section: kernel/modules
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 698a8ba9c8ca99fc4dcb40ebeb8912ae
+Size: 1606
+Filename: mt7601u_3.0.0.4-r0_dm800se.ipk
+Source: mt7601u_3.0.0.4.bb
+Description: mediatek 7601 v3.0.0.4
+OE: mt7601u
+HomePage: www.mediatek.com
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: rtl8192cu
+Version: 4.0.2-r0
+Depends: kernel-module-8192cu-3.2-dm800se
+Section: base
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a3287f8e9b4cd0fc92463dd6ecf68f08
+Size: 588
+Filename: rtl8192cu_4.0.2-r0_dm800se.ipk
+Source: rtl8192cu_4.0.2_9000.bb
+Description: Driver for Realtek USB wireless devices
+OE: rtl8192cu
+HomePage: http://www.realtek.com/
+License: GPL-2.0-only
+Priority: optional
+
+
