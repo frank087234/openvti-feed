@@ -1,0 +1,17 @@
+Package: enigma2-plugin-extensions-epgimport
+Version: 1.1+git314+a32929f0+a32929f2d0-r1
+Depends: libc6 (>= 2.43+git0+ce1013a197), python3-backports-lzma, python3-compression, python3-core, python3-pkgutil, python3-shell
+Recommends: enigma2-plugin-extensions-epgimport-sources
+Section: base
+Architecture: mips32el
+Maintainer: oe-alliance
+MD5Sum: 00ebb1b0ea2452c4a557acbe72b7a1d7
+Size: 131036
+Filename: enigma2-plugin-extensions-epgimport_1.1+git314+a32929f0+a32929f2d0-r1_mips32el.ipk
+Source: enigma2-plugin-extensions-epgimport.bb
+Description: Imports xmltv files into the EPG cache of enigma2
+OE: enigma2-plugin-extensions-epgimport
+License: GPL-2.0-only
+Priority: optional
+
+
