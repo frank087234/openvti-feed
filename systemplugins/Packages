@@ -3,8 +3,8 @@ Version: 0.3-r0
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b1b4392f0fdc30e323e632dcc80a0039
-Size: 3980
+MD5Sum: 4de38c0cf67224e580f6e3052505d5b1
+Size: 4222
 Filename: enigma2-plugin-systemplugins-openvtipanel_0.3-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-openvtipanel.bb
 Description: OpenVTi Panel for DM800se
