@@ -1,34 +1,3 @@
-Package: openvti-bootlogo-dbg
-Version: 1.0-r0
-Section: devel
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e85abadd5092617becb4bbc42451a305
-Size: 578
-Filename: openvti-bootlogo-dbg_1.0-r0_mips32el.ipk
-Source: openvti-bootlogo.bb
-Description: OpenVTi bootlogo and backdrop - Debugging files
-OE: openvti-bootlogo
-License: CLOSED
-Priority: optional
-
-
-Package: openvti-bootlogo-dev
-Version: 1.0-r0
-Recommends: openvti-bootlogo (= 1.0-r0)
-Section: devel
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a5e3078518370336b3fca5688be54cb9
-Size: 614
-Filename: openvti-bootlogo-dev_1.0-r0_mips32el.ipk
-Source: openvti-bootlogo.bb
-Description: OpenVTi bootlogo and backdrop - Development files
-OE: openvti-bootlogo
-License: CLOSED
-Priority: optional
-
-
 Package: openvti-bootlogo
 Version: 1.0-r0
 Section: base
@@ -44,37 +13,6 @@ License: CLOSED
 Priority: optional
 
 
-Package: openvti-branding-dbg
-Version: 1.0-r0
-Section: devel
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cfb6799482a59058326f6ef48e7c426d
-Size: 568
-Filename: openvti-branding-dbg_1.0-r0_mips32el.ipk
-Source: openvti-branding.bb
-Description: OpenVTi branding - Debugging files
-OE: openvti-branding
-License: MIT
-Priority: optional
-
-
-Package: openvti-branding-dev
-Version: 1.0-r0
-Recommends: openvti-branding (= 1.0-r0)
-Section: devel
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9245da53be782b2e6220ad531f485130
-Size: 606
-Filename: openvti-branding-dev_1.0-r0_mips32el.ipk
-Source: openvti-branding.bb
-Description: OpenVTi branding - Development files
-OE: openvti-branding
-License: MIT
-Priority: optional
-
-
 Package: openvti-branding
 Version: 1.0-r0
 Section: base
@@ -86,37 +24,6 @@ Filename: openvti-branding_1.0-r0_mips32el.ipk
 Source: openvti-branding.bb
 Description: OpenVTi branding
 OE: openvti-branding
-License: MIT
-Priority: optional
-
-
-Package: openvti-skincompat-dbg
-Version: 1.0-r0
-Section: devel
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cc886dd5efc08a0837d0aad98ceb0000
-Size: 586
-Filename: openvti-skincompat-dbg_1.0-r0_mips32el.ipk
-Source: openvti-skincompat.bb
-Description: OpenVTi skin compatibility components - Debugging files
-OE: openvti-skincompat
-License: MIT
-Priority: optional
-
-
-Package: openvti-skincompat-dev
-Version: 1.0-r0
-Recommends: openvti-skincompat (= 1.0-r0)
-Section: devel
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5dc65767179660f65f17242daa4c9e54
-Size: 620
-Filename: openvti-skincompat-dev_1.0-r0_mips32el.ipk
-Source: openvti-skincompat.bb
-Description: OpenVTi skin compatibility components - Development files
-OE: openvti-skincompat
 License: MIT
 Priority: optional
 
