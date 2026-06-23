@@ -362,6 +362,20 @@ License: Proprietary
 Priority: optional
 
 
+Package: enigma2-plugin-extensions-e2iplayer
+Version: git20260623-r0
+Depends: python3-core, enigma2
+Section: extensions
+Architecture: all
+Maintainer: openvti-feed
+MD5Sum: 259522e03202dec3af6aaa21f854250b
+Size: 12923530
+Filename: enigma2-plugin-extensions-e2iplayer_git20260623-r0_all.ipk
+Description: E2iPlayer plugin for Enigma2 Python3
+License: GPL-3.0
+Priority: optional
+
+
 Package: enigma2-plugin-extensions-easyinfo
 Version: y-git5862+2c59c910+2c59c91bad-r0
 Section: base

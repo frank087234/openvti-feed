@@ -15,18 +15,16 @@ Priority: optional
 
 
 Package: enigma2-plugin-softcams-ncam
-Version: git10895+78270c90+78270c9682-r0
-Depends: enigma2-plugin-extensions-oscamstatus, enigma2-plugin-softcams-oscam-whitelist, libc6 (>= 2.43+git0+ce1013a197), libcrypto4 (>= 4.0.0), libdvbcsa1 (>= 1.1.0+git64+b84e7900+b84e790a94), libpcsclite1 (>= 2.0.3), libssl4 (>= 4.0.0), libusb1, pcsc-lite, pcsc-tools, softcam-support
-Section: base
-Architecture: mips32el
-Maintainer: RAED Developer
-MD5Sum: 595a1ec67fa5b7e877a4aa9419bfe463
-Size: 881972
-Filename: enigma2-plugin-softcams-ncam_git10895+78270c90+78270c9682-r0_mips32el.ipk
-Source: enigma2-plugin-softcams-ncam.bb
-Description: enigma2-plugin-softcams-ncam version git-r0
-OE: enigma2-plugin-softcams-ncam
-License: GPL-3.0-only
+Version: V15.8-r0
+Depends: libcurl4
+Architecture: all
+Maintainer: RAED (rrrr53@hotmail.com)
+MD5Sum: c6a84a3945c77259815db3cb310e0e51
+Size: 5070764
+Filename: enigma2-plugin-softcams-ncam_V15.8-r0_all.ipk
+Description: ncam to all images OE2.0 (Patched and Build by RAED)
+HomePage: www.tunisia-sat.com
+License: Proprietary
 Priority: optional
 
 
