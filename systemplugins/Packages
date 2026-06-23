@@ -1,28 +1,640 @@
+Package: enigma2-plugin-systemplugins-automaticcleanup
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 41871e1e7dcb200ea8e9989cea6fd3ad
+Size: 24414
+Filename: enigma2-plugin-systemplugins-automaticcleanup_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-automaticcleanup
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-automaticvolumeadjustment
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: bf13e2465d8e5f1892076f2b08266926
+Size: 34350
+Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-automaticvolumeadjustment
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-autoresolution
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 32124e86a8537de5133e60cb1352d9b5
+Size: 47118
+Filename: enigma2-plugin-systemplugins-autoresolution_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-autoresolution
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-blindscan
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Recommends: virtual/blindscan-dvbs
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: caa5e54c5d7505751f594a742cee929b
+Size: 144866
+Filename: enigma2-plugin-systemplugins-blindscan_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-blindscan
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-cablescan-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5970a4292f1b25c96825d1b2e2f6071d
+Size: 3876
+Filename: enigma2-plugin-systemplugins-cablescan-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-cablescan (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-cablescan
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 0d87aea3916e2cd8c071819e69f0a6b3
+Size: 9828
+Filename: enigma2-plugin-systemplugins-cablescan_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-cablescan
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-commoninterfaceassignment-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 2bb2b5e2e22150d60217cd4156d07791
+Size: 7004
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-commoninterfaceassignment (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-commoninterfaceassignment
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 0f7a6b07b2b3dc61f5a53f8fee556d35
+Size: 18144
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-commoninterfaceassignment
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-defaultservicesscanner-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: dbafc2e94cfc912603dfcecc0166bdcd
+Size: 2646
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-defaultservicesscanner (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-defaultservicesscanner
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7f415cc5a0e0e70138822b2f6d7fa328
+Size: 4944
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-defaultservicesscanner
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-diseqctester-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: dc61433ef7d93e508ef5816bf1a7c897
+Size: 6812
+Filename: enigma2-plugin-systemplugins-diseqctester-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-diseqctester (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-diseqctester
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 65c8b0ec0809f4618adfb85088dec0d3
+Size: 16420
+Filename: enigma2-plugin-systemplugins-diseqctester_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-diseqctester
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-fastchannelchange-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 300035b11be6639dd8d12f3744bb27ed
+Size: 5130
+Filename: enigma2-plugin-systemplugins-fastchannelchange-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-fastchannelchange (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-fastchannelchange
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 4e3cf26a893c477f07829044b7af0ba9
+Size: 13276
+Filename: enigma2-plugin-systemplugins-fastchannelchange_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-fastchannelchange
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-fastscan-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7e5a28e0e60f54c40cd1af62196512ac
+Size: 5242
+Filename: enigma2-plugin-systemplugins-fastscan-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-fastscan (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-fastscan
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 949e87b3965e8495201ca470470f02ef
+Size: 13818
+Filename: enigma2-plugin-systemplugins-fastscan_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-fastscan
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-hdmicec-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: f335c243aff6012a84c0942737369d74
+Size: 4082
+Filename: enigma2-plugin-systemplugins-hdmicec-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-hdmicec (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-hdmicec
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c1f3aef8d8bf6b4f5bff9f0b61cff849
+Size: 8374
+Filename: enigma2-plugin-systemplugins-hdmicec_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-hdmicec
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-hotplug-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: b2bf2edf78305e442ab597d275dfa1ae
+Size: 5332
+Filename: enigma2-plugin-systemplugins-hotplug-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-hotplug (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-hotplug
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: ddb4e08c3620493edbf3e74f6e2a5a73
+Size: 11884
+Filename: enigma2-plugin-systemplugins-hotplug_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-hotplug
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-lcnscanner-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 45dab8999e13ae2e66f21fcc37cc96ee
+Size: 7096
+Filename: enigma2-plugin-systemplugins-lcnscanner-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-lcnscanner (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-lcnscanner
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Replaces: enigma2-plugin-systemplugins-terrestrialscan
+Conflicts: enigma2-plugin-systemplugins-terrestrialscan
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 4ef7599b73aea4a1b173a4a7d9a65f2c
+Size: 22584
+Filename: enigma2-plugin-systemplugins-lcnscanner_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-lcnscanner
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-mphelp
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: be1d75042e2ee8803aa86fc10947e3d0
+Size: 8842
+Filename: enigma2-plugin-systemplugins-mphelp_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-mphelp
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-networkbrowser
+Version: git82+bf41daa0+bf41daa472-r0
+Depends: enigma2-binary-plugins, libc6 (>= 2.43+git0+e9517114ac)
+Section: base
+Architecture: mips32el
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 2185e30df4452ff2e99846a3c63071a8
+Size: 127446
+Filename: enigma2-plugin-systemplugins-networkbrowser_git82+bf41daa0+bf41daa472-r0_mips32el.ipk
+Source: enigma2-binary-plugins.bb
+Description: systemplugins-networkbrowser
+OE: enigma2-binary-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-networkwizard-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c90a48e5b3fc8128609010d48c5237a9
+Size: 5168
+Filename: enigma2-plugin-systemplugins-networkwizard-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-networkwizard (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-networkwizard
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 873a9c98af27749bd35d06f28532b169
+Size: 13410
+Filename: enigma2-plugin-systemplugins-networkwizard_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-networkwizard
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
 Package: enigma2-plugin-systemplugins-openvtipanel
-Version: 0.3-r0
+Version: 1.0-r0
+Depends: python3-core, python3-json
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4de38c0cf67224e580f6e3052505d5b1
-Size: 4222
-Filename: enigma2-plugin-systemplugins-openvtipanel_0.3-r0_mips32el.ipk
+MD5Sum: 5eaa7900b2bae553a54b9222e4ccc26d
+Size: 75412
+Filename: enigma2-plugin-systemplugins-openvtipanel_1.0-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-openvtipanel.bb
-Description: OpenVTi Panel for DM800se
+Description: Enhanced VTi Panel for DM800se
 OE: enigma2-plugin-systemplugins-openvtipanel
-License: MIT
+License: CLOSED
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-osd3dsetup-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 06f4df50d585efa2528798713afa7e25
+Size: 2514
+Filename: enigma2-plugin-systemplugins-osd3dsetup-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-osd3dsetup (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-osd3dsetup
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c7a81c80e8e810c98d573bfeaf5f59f7
+Size: 5808
+Filename: enigma2-plugin-systemplugins-osd3dsetup_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-osd3dsetup
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-osdpositionsetup-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: f053c01e90e3647ece53306e2859915c
+Size: 4524
+Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-osdpositionsetup (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-osdpositionsetup
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8cb5344f8ebbf6d7e4d2165ffdbaa869
+Size: 9970
+Filename: enigma2-plugin-systemplugins-osdpositionsetup_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-osdpositionsetup
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-positionersetup-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c88efe3290b8a20b05e28ebf6e43e35e
+Size: 14878
+Filename: enigma2-plugin-systemplugins-positionersetup-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-positionersetup (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-positionersetup
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6df5d700a8d1fd4ee1a426ed77971b91
+Size: 38290
+Filename: enigma2-plugin-systemplugins-positionersetup_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-positionersetup
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-recinfobar
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 1a08e41c61fa63d7f3f7307467652bfb
+Size: 48612
+Filename: enigma2-plugin-systemplugins-recinfobar_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-recinfobar
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 58fbfda9564b9793e494280dead3b7af
+Size: 2100
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-satelliteequipmentcontrol (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: bf6e9f79302e831096952ea1d92d6a4f
+Size: 4046
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-satelliteequipmentcontrol
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-satfinder-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: bfb11ce6b91041117b52163f1a4cd196
+Size: 6946
+Filename: enigma2-plugin-systemplugins-satfinder-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-satfinder (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-satfinder
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: d439d8c725132834e09c5fcbc4470ab4
+Size: 17206
+Filename: enigma2-plugin-systemplugins-satfinder_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-satfinder
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-satipclient
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 515ae9b5743314458b6a17cced461e71
+Size: 35206
+Filename: enigma2-plugin-systemplugins-satipclient_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-satipclient
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-serviceapp-src
+Version: 0.5+git217+95e5a4f0+95e5a4f41d-r1
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d958b4619965c56cf7d6e221b7d3d9b7
+Size: 58294
+Filename: enigma2-plugin-systemplugins-serviceapp-src_0.5+git217+95e5a4f0+95e5a4f41d-r1_mips32el.ipk
+Source: enigma2-plugin-systemplugins-serviceapp.bb
+Description: enigma2-plugin-systemplugins-serviceapp version 0.5+git-r1 - Source files
+OE: enigma2-plugin-systemplugins-serviceapp
+License: GPL-2.0-only
 Priority: optional
 
 
 Package: enigma2-plugin-systemplugins-serviceapp
 Version: 0.5+git217+95e5a4f0+95e5a4f41d-r1
-Depends: enigma2, exteplayer3, gstplayer, gstplayer2, libc6 (>= 2.43+git0+ce1013a197), libcrypto4 (>= 4.0.0), libgcc1 (>= 15.2.0), libssl4 (>= 4.0.0), libstdc++6 (>= 15.2.0), openssl, python3-json, uchardet (>= 0.0.8)
+Depends: enigma2, exteplayer3, gstplayer, gstplayer2, libc6 (>= 2.43+git0+e9517114ac), libcrypto4 (>= 4.0.0), libgcc1 (>= 16.1.0), libssl4 (>= 4.0.0), libstdc++6 (>= 16.1.0), openssl, python3-json, uchardet (>= 0.0.8)
 Replaces: enigma2-plugin-extensions-serviceapp
 Conflicts: enigma2-plugin-extensions-serviceapp
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f944d3881c4721f2647b9c5da6267628
-Size: 242004
+MD5Sum: d4c5eefa7d0eb9d3764c3eff7e545490
+Size: 236470
 Filename: enigma2-plugin-systemplugins-serviceapp_0.5+git217+95e5a4f0+95e5a4f41d-r1_mips32el.ipk
 Source: enigma2-plugin-systemplugins-serviceapp.bb
 Description: enigma2-plugin-systemplugins-serviceapp version 0.5+git-r1
@@ -31,18 +643,285 @@ License: GPL-2.0-only
 Priority: optional
 
 
-Package: exteplayer3
-Version: 180+gitr151+c4a51ac0+c4a51accdc-r0
-Depends: ffmpeg, libavcodec62 (>= 8.0.1), libavformat62 (>= 8.0.1), libavutil60 (>= 8.0.1), libbluray, libc6 (>= 2.43+git0+ce1013a197), libswresample6 (>= 8.0.1), libswscale9 (>= 8.0.1)
-Section: multimedia
+Package: enigma2-plugin-systemplugins-setpasswd
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 9116b2132f4a4ebe766dbd8faca44042
+Size: 11952
+Filename: enigma2-plugin-systemplugins-setpasswd_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-setpasswd
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-softwaremanager-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 160ce0776ad35431bc575992153f18dd
+Size: 28326
+Filename: enigma2-plugin-systemplugins-softwaremanager-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-softwaremanager (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-softwaremanager
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: python3-twisted
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 57f93a9e8ba8b80a1611bb8ee20ec410
+Size: 89398
+Filename: enigma2-plugin-systemplugins-softwaremanager_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-softwaremanager
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-tempfancontrol-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a82a8eb29f9c017dd7e6e8919cc41e40
+Size: 2410
+Filename: enigma2-plugin-systemplugins-tempfancontrol-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-tempfancontrol (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-tempfancontrol
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5363d128abb572fe182e5c5ade72243b
+Size: 4434
+Filename: enigma2-plugin-systemplugins-tempfancontrol_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-tempfancontrol
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-transcodingsetup
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 54bc1a0c5525c7179dd1ccd783da513d
+Size: 21816
+Filename: enigma2-plugin-systemplugins-transcodingsetup_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-transcodingsetup
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-vfdcontrol
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7545b52807bad249b13bf5d205eff676
+Size: 19568
+Filename: enigma2-plugin-systemplugins-vfdcontrol_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-vfdcontrol
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videoclippingsetup-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3d32f52756df1d15b5cf8f8b33bafde9
+Size: 2292
+Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videoclippingsetup (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videoclippingsetup
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: e849aabb7f1786240e4328ebe90c97c0
+Size: 4932
+Filename: enigma2-plugin-systemplugins-videoclippingsetup_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videoclippingsetup
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videoenhancement-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5d67433ec88da9d81bd99df6de40f409
+Size: 6394
+Filename: enigma2-plugin-systemplugins-videoenhancement-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videoenhancement (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videoenhancement
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 4da43a5d4fe985628e97a5a89cd0f6ea
+Size: 16538
+Filename: enigma2-plugin-systemplugins-videoenhancement_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videoenhancement
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videomode-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 310cd726bac8e0962cef8da9e8b2d8c3
+Size: 10430
+Filename: enigma2-plugin-systemplugins-videomode-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videomode (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videomode
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 65c602af75d03d87a981c57009f18893
+Size: 36118
+Filename: enigma2-plugin-systemplugins-videomode_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videomode
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videotune-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7f84c439c2a7bc619f0496b7d0c0b3e7
+Size: 4924
+Filename: enigma2-plugin-systemplugins-videotune-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videotune (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-videotune
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 1a63de7f92cfa7adc6bfcf6971098562
+Size: 71998
+Filename: enigma2-plugin-systemplugins-videotune_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-videotune
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-vps
+Version: git82+bf41daa0+bf41daa472-r0
+Depends: enigma2-binary-plugins, libc6 (>= 2.43+git0+e9517114ac), libgcc1 (>= 16.1.0), libstdc++6 (>= 16.1.0)
+Section: base
 Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9cc93cf767952217dda8a7f7af147bc3
-Size: 164334
-Filename: exteplayer3_180+gitr151+c4a51ac0+c4a51accdc-r0_mips32el.ipk
-Source: exteplayer3.bb
-Description: exteplayer3 - media player for E2
-OE: exteplayer3
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5a484a2e8eac60c887f8dbb49a1a1500
+Size: 73680
+Filename: enigma2-plugin-systemplugins-vps_git82+bf41daa0+bf41daa472-r0_mips32el.ipk
+Source: enigma2-binary-plugins.bb
+Description: systemplugins-vps
+OE: enigma2-binary-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-wirelesslan-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c7a89bdbfd87af42d07fe201b6910895
+Size: 9028
+Filename: enigma2-plugin-systemplugins-wirelesslan-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-wirelesslan (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-wirelesslan
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: python3-wifi, wireless-tools, wpa-supplicant
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6ffe9ad825bf027b8b6f7ec534564ce7
+Size: 22622
+Filename: enigma2-plugin-systemplugins-wirelesslan_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: systemplugins-wirelesslan
+OE: enigma2
 License: GPL-2.0-only
 Priority: optional
 

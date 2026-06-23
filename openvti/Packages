@@ -1,45 +1,16 @@
-Package: openvti-bootlogo
+Package: enigma2-plugin-systemplugins-openvtipanel
 Version: 1.0-r0
+Depends: python3-core, python3-json
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2627a79790dc8ed07fc6abd28c3cc103
-Size: 186846
-Filename: openvti-bootlogo_1.0-r0_mips32el.ipk
-Source: openvti-bootlogo.bb
-Description: OpenVTi bootlogo and backdrop
-OE: openvti-bootlogo
+MD5Sum: 5eaa7900b2bae553a54b9222e4ccc26d
+Size: 75412
+Filename: enigma2-plugin-systemplugins-openvtipanel_1.0-r0_mips32el.ipk
+Source: enigma2-plugin-systemplugins-openvtipanel.bb
+Description: Enhanced VTi Panel for DM800se
+OE: enigma2-plugin-systemplugins-openvtipanel
 License: CLOSED
-Priority: optional
-
-
-Package: openvti-branding
-Version: 1.0-r0
-Section: base
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c3799f72eebc5c653224c0721ee67df0
-Size: 682
-Filename: openvti-branding_1.0-r0_mips32el.ipk
-Source: openvti-branding.bb
-Description: OpenVTi branding
-OE: openvti-branding
-License: MIT
-Priority: optional
-
-
-Package: openvti-skincompat
-Version: 1.0-r0
-Section: base
-Architecture: mips32el
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3543f4c1360fe670babdb0d13625480e
-Size: 1340
-Filename: openvti-skincompat_1.0-r0_mips32el.ipk
-Source: openvti-skincompat.bb
-Description: OpenVTi skin compatibility components
-OE: openvti-skincompat
-License: MIT
 Priority: optional
 
 

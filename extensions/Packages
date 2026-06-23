@@ -1,17 +1,1717 @@
+Package: enigma2-plugin-extensions-aihdcontroler
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8a48e6a9cb7df7218a42237785ed77a4
+Size: 436664
+Filename: enigma2-plugin-extensions-aihdcontroler_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-aihdcontroler
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-antiscrollbar
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6a47c5037911ccd3c2e65aa8426a3651
+Size: 15548
+Filename: enigma2-plugin-extensions-antiscrollbar_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-antiscrollbar
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ardmediathek
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-requests, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: ac970e135a3cf6a2cd8bf4a1a0c2a2d5
+Size: 74594
+Filename: enigma2-plugin-extensions-ardmediathek_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-ardmediathek
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-audiosync
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Replaces: enigma2-plugin-extensions-ac3lipsync
+Conflicts: enigma2-plugin-extensions-ac3lipsync
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3133e62c5dc32b2b50dbef1f364e6823
+Size: 70186
+Filename: enigma2-plugin-extensions-audiosync_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-audiosync
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-autobackup
+Version: 2.0+git178+87e43d70+87e43d7e13-r0
+Depends: python3-core
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 853ade60d06c200ca374ffa4cf2d3a08
+Size: 45480
+Filename: enigma2-plugin-extensions-autobackup_2.0+git178+87e43d70+87e43d7e13-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-autobackup.bb
+Description: Backup settings and restore them automatically
+OE: enigma2-plugin-extensions-autobackup
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-autotimer
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugin-systemplugins-mphelp, python3-codecs, python3-difflib, python3-xml
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: de68eb49481d5a856d865117811d3c7a
+Size: 442762
+Filename: enigma2-plugin-extensions-autotimer_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-autotimer
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-babelzapper
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: bf5a4a8f5b4cdb202f5ab80535d06332
+Size: 26024
+Filename: enigma2-plugin-extensions-babelzapper_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-babelzapper
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-birthdayreminder
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: b20797f746f5681ec9cb786aa7b3248d
+Size: 40176
+Filename: enigma2-plugin-extensions-birthdayreminder_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-birthdayreminder
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-bitrate
+Version: 2.0+git39+d55ee410+d55ee41490-r0
+Depends: libc6 (>= 2.43+git0+e9517114ac), libgcc1 (>= 16.1.0), libstdc++6 (>= 16.1.0)
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0dc8e9af24d62fe3430a1cc13447bf0e
+Size: 38870
+Filename: enigma2-plugin-extensions-bitrate_2.0+git39+d55ee410+d55ee41490-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-bitrate.bb
+Description: enigma2-plugin-extensions-bitrate version 2.0+git-r0
+OE: enigma2-plugin-extensions-bitrate
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-bonjour
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: avahi-daemon
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: cf1803f1aa5b1f5939771d3793ec9c93
+Size: 10478
+Filename: enigma2-plugin-extensions-bonjour_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-bonjour
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-btdevicesmanager
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6d81ce05914446bcf134b4522bb28b1a
+Size: 35586
+Filename: enigma2-plugin-extensions-btdevicesmanager_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-btdevicesmanager
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-cdinfo
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: libcddb (>= 1.3.0), libcdio19 (>= 0.80)
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a1cb055e2ab028a7252eb0edb8d6f882
+Size: 15404
+Filename: enigma2-plugin-extensions-cdinfo_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-cdinfo
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-cutlisteditor-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 641e79482125a1b24effeec09c1e49b2
+Size: 8752
+Filename: enigma2-plugin-extensions-cutlisteditor-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-cutlisteditor (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-cutlisteditor
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: aio-grab
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: bd82a9d524116e1a2ce5830d7cdc177a
+Size: 20694
+Filename: enigma2-plugin-extensions-cutlisteditor_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-cutlisteditor
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dreamexplorer
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Recommends: gstreamer1.0-plugins-good-flv
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 301d2fc1eea4feaea22eade6f9844546
+Size: 96352
+Filename: enigma2-plugin-extensions-dreamexplorer_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-dreamexplorer
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dreamirc
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: e580a9e952f72f4013c0f588a693c52f
+Size: 107152
+Filename: enigma2-plugin-extensions-dreamirc_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-dreamirc
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dreammediathek
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: f20c557061b5bfb0e71801f617812202
+Size: 18242
+Filename: enigma2-plugin-extensions-dreammediathek_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-dreammediathek
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dvdbackup
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: dvdbackup, libdvdread
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 905314d5edb62d513b3c47796aa791e0
+Size: 34994
+Filename: enigma2-plugin-extensions-dvdbackup_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-dvdbackup
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dvdburn-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 46dda5f9c8fb548a9f45ff5cda4e5cca
+Size: 25846
+Filename: enigma2-plugin-extensions-dvdburn-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-dvdburn (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dvdburn
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: cdrkit, dvd+rw-tools, dvdauthor, mjpegtools, replex
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3706f8523cf5502cbd14cedfa02461b2
+Size: 847978
+Filename: enigma2-plugin-extensions-dvdburn_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-dvdburn
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dvdplayer-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6ff90f342dab00c22a5a03036bf5ea44
+Size: 1948
+Filename: enigma2-plugin-extensions-dvdplayer-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-dvdplayer (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dvdplayer
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 87ee6efdb419fd3f95b0b05d4c1e0526
+Size: 3838
+Filename: enigma2-plugin-extensions-dvdplayer_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-dvdplayer
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-dyndns
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 2b8aaf59c1216ec466cd7f2a31a1018e
+Size: 11876
+Filename: enigma2-plugin-extensions-dyndns_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-dyndns
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-easyinfo
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5ff5f2bc10b01f20dafdaf63d0160d88
+Size: 54952
+Filename: enigma2-plugin-extensions-easyinfo_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-easyinfo
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-easymedia
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8ef5e3b86389662c3fa4fce69ebb58ab
+Size: 97194
+Filename: enigma2-plugin-extensions-easymedia_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-easymedia
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-eibox
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 883cbca2d68d0673fbe6ae125a7cdafc
+Size: 79046
+Filename: enigma2-plugin-extensions-eibox_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-eibox
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-emailclient
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-email, python3-pyopenssl, python3-shell, python3-twisted-mail, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a3920407e383d5300dddf1d1364e83e7
+Size: 71624
+Filename: enigma2-plugin-extensions-emailclient_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-emailclient
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-epgimport-sources
+Version: git170+7c730840+7c730840b5-r0
+Replaces: enigma2-plugin-extensions-epgimport-rytec, enigma2-plugin-extensions-xmltvimport-rytec
+Conflicts: enigma2-plugin-extensions-epgimport-rytec, enigma2-plugin-extensions-xmltvimport-rytec
+Section: base
+Architecture: all
+Maintainer: Doglover @ https://forums.openpli.org/forum/52-en-rytec-xmltv-and-epg-support/
+MD5Sum: 2ecda7154f2ac512ffb94b8ac977f8b8
+Size: 3808
+Filename: enigma2-plugin-extensions-epgimport-sources_git170+7c730840+7c730840b5-r0_all.ipk
+Source: enigma2-plugin-extensions-epgimport-sources.bb
+Description: enigma2-plugin-extensions-epgimport-sources version git-r0
+OE: enigma2-plugin-extensions-epgimport-sources
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-epgimport-src
+Version: 1.1+git314+a32929f0+a32929f2d0-r1
+Section: devel
+Architecture: mips32el
+Maintainer: oe-alliance
+MD5Sum: 42cb3c8e0eab26af9375e388534e3baf
+Size: 37858
+Filename: enigma2-plugin-extensions-epgimport-src_1.1+git314+a32929f0+a32929f2d0-r1_mips32el.ipk
+Source: enigma2-plugin-extensions-epgimport.bb
+Description: Imports xmltv files into the EPG cache of enigma2 - Source files
+OE: enigma2-plugin-extensions-epgimport
+License: GPL-2.0-only
+Priority: optional
+
+
 Package: enigma2-plugin-extensions-epgimport
 Version: 1.1+git314+a32929f0+a32929f2d0-r1
-Depends: libc6 (>= 2.43+git0+ce1013a197), python3-backports-lzma, python3-compression, python3-core, python3-pkgutil, python3-shell
+Depends: libc6 (>= 2.43+git0+e9517114ac), python3-backports-lzma, python3-compression, python3-core, python3-pkgutil, python3-shell
 Recommends: enigma2-plugin-extensions-epgimport-sources
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance
-MD5Sum: 00ebb1b0ea2452c4a557acbe72b7a1d7
-Size: 131036
+MD5Sum: 87da5db5f19a24b4ed6917218e00712e
+Size: 131040
 Filename: enigma2-plugin-extensions-epgimport_1.1+git314+a32929f0+a32929f2d0-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-epgimport.bb
 Description: Imports xmltv files into the EPG cache of enigma2
 OE: enigma2-plugin-extensions-epgimport
 License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-epgrefresh
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugin-systemplugins-mphelp, python3-codecs, python3-difflib, python3-xml
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5034d2654c0ba063e84d3a3d8961c284
+Size: 143110
+Filename: enigma2-plugin-extensions-epgrefresh_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-epgrefresh
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-epgsearch
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5f907da4996eafd50b9f2c81cf9755be
+Size: 96528
+Filename: enigma2-plugin-extensions-epgsearch_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-epgsearch
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-fancontrol2
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: hdparm, smartmontools
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8b46830e438ff0101b2330c074443cb2
+Size: 141946
+Filename: enigma2-plugin-extensions-fancontrol2_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-fancontrol2
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-filebrowser
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 077414dddbb1e0dfd26e63926deb3827
+Size: 24554
+Filename: enigma2-plugin-extensions-filebrowser_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-filebrowser
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-filecommander-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3a9dad9b5efcb266d8d7e97aec382f6d
+Size: 30254
+Filename: enigma2-plugin-extensions-filecommander-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-filecommander (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-filecommander
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: python3-puremagic
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6d856062c52326e579a529e982a58ad1
+Size: 90790
+Filename: enigma2-plugin-extensions-filecommander_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-filecommander
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-fstabeditor
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 9ed0259e5356e1b4bbdf4745fd4a32aa
+Size: 24042
+Filename: enigma2-plugin-extensions-fstabeditor_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-fstabeditor
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ftpbrowser
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-shell, python3-twisted-protocols
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 48650d524a3780bc2f02171fbefca0fa
+Size: 56182
+Filename: enigma2-plugin-extensions-ftpbrowser_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-ftpbrowser
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-graphmultiepg-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 902e9b535b1d10c20fab4eca9bfff2f6
+Size: 17228
+Filename: enigma2-plugin-extensions-graphmultiepg-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-graphmultiepg (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-graphmultiepg
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 580cbfd966c820c7fa4386b2eafba96e
+Size: 46890
+Filename: enigma2-plugin-extensions-graphmultiepg_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-graphmultiepg
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-growlee
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-protocols
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3d21584786f106fed85de83de0615ebd
+Size: 27258
+Filename: enigma2-plugin-extensions-growlee_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-growlee
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-httpproxy
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: d54b473d168a6fe9b5023b293ab11718
+Size: 7792
+Filename: enigma2-plugin-extensions-httpproxy_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-httpproxy
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-imdb
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-html, python3-requests, python3-six, python3-twisted-core
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6804971caa4e61a6aa92cfeb9422aefb
+Size: 106314
+Filename: enigma2-plugin-extensions-imdb_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-imdb
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-internetspeedtest
+Version: git40+46493890+4649389083-r0
+Depends: python3-core
+Section: base
+Architecture: mips32el
+Maintainer: madhouse
+MD5Sum: 69ee8befe04e996c7f743d6512bbb538
+Size: 799390
+Filename: enigma2-plugin-extensions-internetspeedtest_git40+46493890+4649389083-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-internetspeedtest.bb
+Description: Internet speed test for enigma2
+OE: enigma2-plugin-extensions-internetspeedtest
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-kiddytimer
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a193611a629570b19fe06741507146ed
+Size: 117966
+Filename: enigma2-plugin-extensions-kiddytimer_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-kiddytimer
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-lcd4linux
+Version: git82+bf41daa0+bf41daa472-r0
+Depends: png-util, pydpflib, python3-codecs, python3-ctypes, python3-datetime, python3-email, python3-icalendar, python3-image, python3-mutagen, python3-pillow, python3-pyusb, python3-requests, python3-shell, python3-simplejson, python3-zoneinfo
+Section: base
+Architecture: mips32el
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 025599cf9f76517f498061b7b4320b2b
+Size: 1444368
+Filename: enigma2-plugin-extensions-lcd4linux_git82+bf41daa0+bf41daa472-r0_mips32el.ipk
+Source: enigma2-binary-plugins.bb
+Description: extensions-lcd4linux
+OE: enigma2-binary-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-letterbox
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 288f7341e57b8a75c79b8ca060260805
+Size: 3316
+Filename: enigma2-plugin-extensions-letterbox_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-letterbox
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-logomanager
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: ab1563355eb58efc4229cb2d4ad9dfa9
+Size: 22372
+Filename: enigma2-plugin-extensions-logomanager_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-logomanager
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediadownloader
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-netclient, python3-shell, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 69b1d6f64eb5a0f7309830ebc4f92923
+Size: 23310
+Filename: enigma2-plugin-extensions-mediadownloader_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-mediadownloader
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediaplayer-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: d98ec17d8b8685d3817735a279ac6374
+Size: 12474
+Filename: enigma2-plugin-extensions-mediaplayer-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-mediaplayer (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediaplayer
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 0af475e7818c8c63efed24001f56c142
+Size: 38976
+Filename: enigma2-plugin-extensions-mediaplayer_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-mediaplayer
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediascanner-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 2a4bbf23257001fa07b0ae9936a23708
+Size: 2022
+Filename: enigma2-plugin-extensions-mediascanner-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-mediascanner (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediascanner
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: ac99cf65c2596e74f77c8b5a6f18f326
+Size: 6986
+Filename: enigma2-plugin-extensions-mediascanner_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-mediascanner
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediathekviewweb
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-requests, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 11a738cf243f0ca518e21612f81f3904
+Size: 69786
+Filename: enigma2-plugin-extensions-mediathekviewweb_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-mediathekviewweb
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-merlinepg
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3cbd975a00c69529d781d3cb0721ad47
+Size: 153742
+Filename: enigma2-plugin-extensions-merlinepg_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-merlinepg
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-merlinepgcenter
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3e78ca01eea550160001ae56f7fbcbb1
+Size: 134762
+Filename: enigma2-plugin-extensions-merlinepgcenter_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-merlinepgcenter
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-merlinmusicplayer
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-mutagen, python3-sqlite3, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a435ce4e6695eeb883faceaa0c4dfb22
+Size: 1045784
+Filename: enigma2-plugin-extensions-merlinmusicplayer_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-merlinmusicplayer
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mosaic
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: aio-grab (>= 0.8cvs20081209)
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c8b779148c3cf5d34300412982777681
+Size: 18132
+Filename: enigma2-plugin-extensions-mosaic_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-mosaic
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-moviecut
+Version: git82+bf41daa0+bf41daa472-r0
+Depends: libc6 (>= 2.43+git0+e9517114ac), libgcc1 (>= 16.1.0), libstdc++6 (>= 16.1.0)
+Section: base
+Architecture: mips32el
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: f47fe428fc885baa79ac232aecfb1e65
+Size: 42108
+Filename: enigma2-plugin-extensions-moviecut_git82+bf41daa0+bf41daa472-r0_mips32el.ipk
+Source: enigma2-binary-plugins.bb
+Description: extensions-moviecut
+OE: enigma2-binary-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-movieretitle
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c9eaa7972a88efae9208fb38b98c9d83
+Size: 19764
+Filename: enigma2-plugin-extensions-movieretitle_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-movieretitle
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-movietagger
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a92588de1e3857375ef727cc99ae08a7
+Size: 16356
+Filename: enigma2-plugin-extensions-movietagger_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-movietagger
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-multirc
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 798b1da3c27cd16081cd8fe6e44f79c0
+Size: 6242
+Filename: enigma2-plugin-extensions-multirc_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-multirc
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ncidclient
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-html, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: e42a06f4792e168e70c42291a147e6d8
+Size: 154252
+Filename: enigma2-plugin-extensions-ncidclient_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-ncidclient
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-netcaster
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: e68ec657a94757364b90778e033731ac
+Size: 34088
+Filename: enigma2-plugin-extensions-netcaster_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-netcaster
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-netzkino
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-requests
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: b5a473aa796fe88badca99effe37a704
+Size: 14024
+Filename: enigma2-plugin-extensions-netzkino_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-netzkino
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ofdb
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-html, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 37ce80aee6f9a33765e1f92e368a2537
+Size: 37436
+Filename: enigma2-plugin-extensions-ofdb_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-ofdb
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-openwebif-src
+Version: 0.0-311-gc10cbab-r0
+Section: devel
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 68454f1e534778eff313a03f8dc51ca2
+Size: 119606
+Filename: enigma2-plugin-extensions-openwebif-src_0.0-311-gc10cbab-r0_dm800se.ipk
+Source: enigma2-plugin-extensions-openwebif.bb
+Description: enigma2-plugin-extensions-openwebif version git-r0 - Source files
+OE: enigma2-plugin-extensions-openwebif
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-openwebif
+Version: 0.0-311-gc10cbab-r0
+Depends: aio-grab, python3-cheetah, python3-compression, python3-core, python3-ipaddress, python3-json, python3-misc, python3-numbers, python3-pprint, python3-pyopenssl, python3-shell, python3-twisted-web, python3-unixadmin
+Provides: enigma2-plugin-extensions-openwebif-terminal
+Section: base
+Architecture: dm800se
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 696491b3468f6a93fcdfd9142136f8bb
+Size: 3583964
+Filename: enigma2-plugin-extensions-openwebif_0.0-311-gc10cbab-r0_dm800se.ipk
+Source: enigma2-plugin-extensions-openwebif.bb
+Description: enigma2-plugin-extensions-openwebif version git-r0
+OE: enigma2-plugin-extensions-openwebif
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-orfat
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugin-extensions-vlcplayer, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7a9018740d3a766ad3b7c943b3a66ca5
+Size: 25146
+Filename: enigma2-plugin-extensions-orfat_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-orfat
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-orfteletext
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 4c6701676bc1b90ab9e54fad679cb659
+Size: 9212
+Filename: enigma2-plugin-extensions-orfteletext_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-orfteletext
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-oscamstatus
+Version: 1.0+git55+0004ed50+0004ed50f7-r0
+Depends: python3-core
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: eb5dc671bcd1cff1fda95e939948b0cb
+Size: 95604
+Filename: enigma2-plugin-extensions-oscamstatus_1.0+git55+0004ed50+0004ed50f7-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-oscamstatus.bb
+Description: enigma2-plugin-extensions-oscamstatus version 1.0+git-r0
+OE: enigma2-plugin-extensions-oscamstatus
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-partnerbox
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: d914264b10aa288bbd26e9d85726820a
+Size: 204714
+Filename: enigma2-plugin-extensions-partnerbox_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-partnerbox
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-permanentclock
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: d953beb1910d7164cac68cb581fb4ccd
+Size: 44500
+Filename: enigma2-plugin-extensions-permanentclock_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-permanentclock
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-pictureplayer-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c6258475b13ebf07d4190f17f861d8c8
+Size: 6666
+Filename: enigma2-plugin-extensions-pictureplayer-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-pictureplayer (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-pictureplayer
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 859f0597d79db4101656a988b052f4d0
+Size: 32008
+Filename: enigma2-plugin-extensions-pictureplayer_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-pictureplayer
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-porncenter
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: cf78179fb103eb5af4668c5df5e840a3
+Size: 110484
+Filename: enigma2-plugin-extensions-porncenter_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-porncenter
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-primetimemanager
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8a080dbb42cbf934f2f7d38299dcd52b
+Size: 135576
+Filename: enigma2-plugin-extensions-primetimemanager_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-primetimemanager
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-reconstructapsc
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 06d9fd5db831eff372ff8d2d74334cd9
+Size: 8250
+Filename: enigma2-plugin-extensions-reconstructapsc_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-reconstructapsc
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-seekbar
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8f36b3cdb08db47b8be299048014ad79
+Size: 15466
+Filename: enigma2-plugin-extensions-seekbar_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-seekbar
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-shoutcast
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-requests, python3-treq, streamripper
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6256c76976243b3d73cf0dc3fccd1f6b
+Size: 67254
+Filename: enigma2-plugin-extensions-shoutcast_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-shoutcast
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-showclock
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 9e08163b64c1ea485b254572384d3278
+Size: 21992
+Filename: enigma2-plugin-extensions-showclock_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-showclock
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-simplerss
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugin-extensions-mediadownloader, python3-codecs, python3-html, python3-requests, python3-twisted-web, python3-xml
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 54f3170d82bb3d9aeb3347d365e39b39
+Size: 69192
+Filename: enigma2-plugin-extensions-simplerss_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-simplerss
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-socketmmi-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 3d3f5e6f5a78b4d6a0d2a4c8d3b436d8
+Size: 1524
+Filename: enigma2-plugin-extensions-socketmmi-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-socketmmi (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-socketmmi
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: libc6 (>= 2.43+git0+e9517114ac), libgcc1 (>= 16.1.0), libstdc++6 (>= 16.1.0), libudfread3 (>= 1.2.0+git126+139a2190+139a219452), libxml2 (>= 2.15.3)
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a2576ab9be5af751b9554a7374c0c42e
+Size: 16910
+Filename: enigma2-plugin-extensions-socketmmi_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-socketmmi
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-srfmediathek
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-html, python3-requests, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a52a75670c68102c65595559b4d81eb6
+Size: 61024
+Filename: enigma2-plugin-extensions-srfmediathek_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-srfmediathek
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-streamlinkwrapper-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: a5e5f418e42ef14de886741569bc6394
+Size: 1294
+Filename: enigma2-plugin-extensions-streamlinkwrapper-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-streamlinkwrapper (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-streamlinkwrapper
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: streamlink
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8be6d60b22a4e5c370bfce5e6862dd6a
+Size: 2200
+Filename: enigma2-plugin-extensions-streamlinkwrapper_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: Enables support for streamlink url scheme in bouquet list.
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-svdrp
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-protocols
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 4ce1c078c887ff152e3d80dc6bbca48e
+Size: 20714
+Filename: enigma2-plugin-extensions-svdrp_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-svdrp
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-systemtools
+Version: 2.0+git28+88dbcac0+88dbcac492-r0
+Depends: python3-core
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 42c33f430a3769348bf065bfa5d1621c
+Size: 20714
+Filename: enigma2-plugin-extensions-systemtools_2.0+git28+88dbcac0+88dbcac492-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-systemtools.bb
+Description: enigma2-plugin-extensions-systemtools version 2.0+git-r0
+OE: enigma2-plugin-extensions-systemtools
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tageditor
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 0e64825a70c622113f1b9835c37de491
+Size: 19176
+Filename: enigma2-plugin-extensions-tageditor_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-tageditor
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tmbd-src
+Version: 1+git140+0a88e590+0a88e596fb-r1
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6f19bde1ff3f10fd2603f74f14fbc2e9
+Size: 127666
+Filename: enigma2-plugin-extensions-tmbd-src_1+git140+0a88e590+0a88e596fb-r1_mips32el.ipk
+Source: enigma2-plugin-extensions-tmbd.bb
+Description: enigma2-plugin-extensions-tmbd version 1+git-r1 - Source files
+OE: enigma2-plugin-extensions-tmbd
+HomePage: https://github.com/Dima73/enigma2-plugin-extensions-tmbd
+License: PD
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tmbd
+Version: 1+git140+0a88e590+0a88e596fb-r1
+Depends: python3-core, python3-html, python3-lxml, python3-misc, python3-shell, python3-twisted-web, python3-unixadmin, python3-xml
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e5a4f81d7f0aa18ca67293280b98f46f
+Size: 366034
+Filename: enigma2-plugin-extensions-tmbd_1+git140+0a88e590+0a88e596fb-r1_mips32el.ipk
+Source: enigma2-plugin-extensions-tmbd.bb
+Description: enigma2-plugin-extensions-tmbd version 1+git-r1
+OE: enigma2-plugin-extensions-tmbd
+HomePage: https://github.com/Dima73/enigma2-plugin-extensions-tmbd
+License: PD
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-trafficinfo
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 0c91ef63f9f2c72baa46cb243fceac37
+Size: 14180
+Filename: enigma2-plugin-extensions-trafficinfo_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-trafficinfo
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-transmission
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: transmission, transmission-client
+Recommends: transmission, transmission-client
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c03970793a608dd56082862e18efc7ad
+Size: 15960
+Filename: enigma2-plugin-extensions-transmission_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-transmission
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tvcharts
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 08e65d0ddf3ce5e9434943251c8a8955
+Size: 20836
+Filename: enigma2-plugin-extensions-tvcharts_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-tvcharts
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-unwetterinfo
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5615756a355be62727ddbd62d6ec9b2d
+Size: 59430
+Filename: enigma2-plugin-extensions-unwetterinfo_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-unwetterinfo
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-valixdcontrol
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 195f4389b8757128a95be19278934616
+Size: 82026
+Filename: enigma2-plugin-extensions-valixdcontrol_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-valixdcontrol
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-virtualzap
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: enigma2-plugins
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7820fec8687206ba85e78c82fcb5511b
+Size: 71116
+Filename: enigma2-plugin-extensions-virtualzap_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-virtualzap
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-vlcplayer
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 8ad547bb82957749440085bc89f1b3df
+Size: 83122
+Filename: enigma2-plugin-extensions-vlcplayer_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-vlcplayer
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-webcamviewer
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-shell, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: e0de79cfe0e0cb5aea4663a7e388c42e
+Size: 59392
+Filename: enigma2-plugin-extensions-webcamviewer_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-webcamviewer
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-werbezapper
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 4ba8410560658fe7a4a23afa2de4dbaf
+Size: 44420
+Filename: enigma2-plugin-extensions-werbezapper_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-werbezapper
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-youtube-src
+Version: 1+git1330+87440b50+87440b5731-r0
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 06fdf2e6f9dae3e24eecf4aa8d513188
+Size: 44708
+Filename: enigma2-plugin-extensions-youtube-src_1+git1330+87440b50+87440b5731-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-youtube.bb
+Description: Enigma2 plugin to manage your youtube account and watch videos - Source files
+OE: enigma2-plugin-extensions-youtube
+HomePage: https://github.com/Taapat/enigma2-plugin-youtube
+License: PD
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-youtube
+Version: 1+git1330+87440b50+87440b5731-r0
+Depends: python3-core, python3-datetime, python3-email, python3-io, python3-json
+Section: multimedia
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 39822c33a014bfa236a3bfb1a3db02d5
+Size: 183748
+Filename: enigma2-plugin-extensions-youtube_1+git1330+87440b50+87440b5731-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-youtube.bb
+Description: Enigma2 plugin to manage your youtube account and watch videos
+OE: enigma2-plugin-extensions-youtube
+HomePage: https://github.com/Taapat/enigma2-plugin-youtube
+License: PD
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ytdlpwrapper-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 7593123f521cd5e46620204cb0ef8086
+Size: 1368
+Filename: enigma2-plugin-extensions-ytdlpwrapper-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-ytdlpwrapper (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ytdlpwrapper
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: python3-yt-dlp
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 6e9ab1b35487e23b31cabca1d7d5447a
+Size: 2330
+Filename: enigma2-plugin-extensions-ytdlpwrapper_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: Enables support for YT-DLP url scheme in bouquet list.
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ytdlwrapper-src
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: enigma2
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5e88daf74d5a1fd38ffdffdd27e6052d
+Size: 1340
+Filename: enigma2-plugin-extensions-ytdlwrapper-src_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: extensions-ytdlwrapper (source files)
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-ytdlwrapper
+Version: 3.14+git23191+3bdf4c00+3bdf4c09ee-r0
+Depends: python3-youtube-dl
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 5bcd8273fe84389b760a310713ecd9a4
+Size: 2280
+Filename: enigma2-plugin-extensions-ytdlwrapper_3.14+git23191+3bdf4c00+3bdf4c09ee-r0_dm800se.ipk
+Source: enigma2.bb
+Description: Enables support for Youtube-DL url scheme in bouquet list.
+OE: enigma2
+License: GPL-2.0-only
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-zapstatistic
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: 1a4fa4c65253053e414840626b8d48ca
+Size: 19370
+Filename: enigma2-plugin-extensions-zapstatistic_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-zapstatistic
+OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-zdfmediathek
+Version: y-git5862+2c59c910+2c59c91bad-r0
+Depends: python3-html, python3-requests, python3-twisted-web
+Section: base
+Architecture: dm800se
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: e145e9f9ca235e1d54c636ef6d4a921a
+Size: 62164
+Filename: enigma2-plugin-extensions-zdfmediathek_y-git5862+2c59c910+2c59c91bad-r0_dm800se.ipk
+Source: enigma2-plugins.bb
+Description: extensions-zdfmediathek
+OE: enigma2-plugins
+License: Proprietary
 Priority: optional
 
 
