@@ -1,0 +1,51 @@
+Package: curl
+Version: 8.19.0-r0
+Depends: libc6 (>= 2.43+git0+e9517114ac), libcurl4 (>= 8.19.0)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 55d26a3226e22c1fe68268d4c3f2822a
+Size: 98126
+Filename: curl_8.19.0-r0_mips32el.ipk
+Source: curl_8.19.0.bb
+Description: Command line tool and library for client-side URL transfers
+OE: curl
+HomePage: https://curl.se/
+License: curl
+Priority: optional
+
+
+Package: ffmpeg
+Version: 8.1.1-r0
+Depends: libatomic1 (>= 16.1.0), libavcodec62 (>= 8.1.1), libavdevice62 (>= 8.1.1), libavfilter11 (>= 8.1.1), libavformat62 (>= 8.1.1), libavutil60 (>= 8.1.1), libc6 (>= 2.43+git0+e9517114ac), libswresample6 (>= 8.1.1), libswscale9 (>= 8.1.1), libz1 (>= 1.3.2)
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: aa7da84f2e7956458edf9e66850983bf
+Size: 272080
+Filename: ffmpeg_8.1.1-r0_mips32el.ipk
+Source: ffmpeg_8.1.1.bb
+Description: A complete, cross-platform solution to record, convert and stream audio and video.
+OE: ffmpeg
+HomePage: https://www.ffmpeg.org/
+License: GPL-2.0-or-later
+Priority: optional
+
+
+Package: python3-sqlite3
+Version: 3.14.5-r0
+Depends: libc6 (>= 2.43+git0+e9517114ac), libsqlite3-0 (>= 3.53.0), python3-core, python3-datetime
+Section: devel/python
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5700f0281d92c4bb7a8289f08e2c4fe7
+Size: 55240
+Filename: python3-sqlite3_3.14.5-r0_mips32el.ipk
+Source: python3_3.14.5.bb
+Description: Python Sqlite3 database support
+OE: python3
+HomePage: http://www.python.org
+License: PSF-2.0
+Priority: optional
+
+
