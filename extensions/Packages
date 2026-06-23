@@ -156,6 +156,18 @@ License: Proprietary
 Priority: optional
 
 
+Package: enigma2-plugin-extensions-bouquetmakerxtream
+Version: 1.76.20260510
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: c03b128f044b6fd8fce8b2537bd309a1
+Size: 4296726
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.76_all.ipk
+Description: Bouquet Maker Xtream - IPTV bouquet maker
+Priority: optional
+
+
 Package: enigma2-plugin-extensions-btdevicesmanager
 Version: y-git5862+2c59c910+2c59c91bad-r0
 Depends: enigma2-plugins
@@ -514,6 +526,18 @@ Source: enigma2-plugins.bb
 Description: extensions-epgsearch
 OE: enigma2-plugins
 License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-estalker
+Version: 1.38.20260429
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 77203ebd5df53f9723279b9d569ef2af
+Size: 3255560
+Filename: enigma2-plugin-extensions-estalker_1.38_all.ipk
+Description: IPTV Ministra stalker player by KiddaC
 Priority: optional
 
 
@@ -967,6 +991,23 @@ Filename: enigma2-plugin-extensions-movietagger_y-git5862+2c59c910+2c59c91bad-r0
 Source: enigma2-plugins.bb
 Description: extensions-movietagger
 OE: enigma2-plugins
+License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-multi-stalkerpro
+Version: 1.1+git39+f657c530+f657c5323d-r0
+Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, gstplayer, libc6 (>= 2.39+git0+6d1e3fb07b), python3-core, python3-cryptography, python3-fuzzywuzzy, python3-levenshtein, python3-rarfile, python3-six, python3-sqlite3, uchardet
+Section: multimedia
+Architecture: mips32el
+Maintainer: openATV
+MD5Sum: 8716b5f70a7003a60046bc2d2030ef6b
+Size: 2151756
+Filename: enigma2-plugin-extensions-multi-stalkerpro_1.1+git39+f657c530+f657c5323d-r0_mips32el.ipk
+Source: enigma2-plugin-extensions-multi-stalkerpro.bb
+Description: enigma2-plugin-extensions-multi-stalkerpro version 1.1+git-r0
+OE: enigma2-plugin-extensions-multi-stalkerpro
+HomePage: https:\\www.opena.tv
 License: Proprietary
 Priority: optional
 
@@ -1598,6 +1639,19 @@ Source: enigma2-plugins.bb
 Description: extensions-werbezapper
 OE: enigma2-plugins
 License: Proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xstreamity
+Version: 5.50.20260524
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 7387f3f868519a78909688c9c7cb4095
+Size: 8761682
+Filename: enigma2-plugin-extensions-xstreamity_5.50_all.ipk
+Source: {"Type":"Plugin","Title":"IPTV Xtream Codes/XUI One playlists player by KiddaC","LastUpdated":"1779625921","PostRemoveFlags":"Restart GUI"}
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Priority: optional
 
 
